@@ -1,0 +1,2 @@
+# nevezetess-gek
+pyton projekt
